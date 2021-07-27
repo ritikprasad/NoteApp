@@ -12,7 +12,8 @@ Frontend :
 1) HTML
 2) CSS
 3) JAVA SCRIPT
-Framework: Bootstrap
+
+  Framework: Bootstrap
 
 ### Getting Started
 For this project, I had used  VS Code.
