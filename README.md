@@ -1,9 +1,9 @@
-#Notes App
+# Notes App
 Basic App where you Can Save your notes  and Perform Crud (Create Read Update Delete) Operation
 
 ## Description
 
-###Languages Used
+### Languages Used
 
 Frontend :
 
