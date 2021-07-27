@@ -1,5 +1,5 @@
 # Notes App
-Basic App where you Can Save your notes  and Perform Crud (Create Read Update Delete) Operation
+Basic App where you Can Save your notes  and Perform Crud (Create Read Update Delete) Operation.
 
 ## Description
 The project I had  built is “Note Taking Website App Using Pure JavaScript.” We all have a notes app on our mobiles or laptop. Note-taking websites are the online equivalent of notebooks, and because they are digital, they can do more for you than paper ever could.
